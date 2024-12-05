@@ -7,7 +7,7 @@ After graduating in Mathematics (M.S.) from Universidad Nacional de Cordoba (Arg
 
 ## Tech Skills
 
-Python (pandas, scikit-learn, matplotlib),  SQL, AWS (CloudFormation, Lambda, S3, CloudWatch, RDS), git, Grafana.
+Python (pandas, scikit-learn, matplotlib),  MATLAB, SQL, AWS (CloudFormation, Lambda, S3, CloudWatch, RDS), git, Grafana.
 
 
 ## Projects & Experience
@@ -22,11 +22,14 @@ In this project I designed and implemented a filter that would run daily, detect
 
 This filter helped catch over 4000 abnormal prices only in the first few months, allowing for greater reliability and serving as a starting point for investigations.
 
+![Hierarchical clustering in scikit-learn](/images/dendrogram.jpg)
+
+
 ### - Flight prices prediction with scikit-learn.
 This is a Colab Notebook where I used a Kaggle dataset to do some data exploration and create different ML models to predict flight prices. I am still working on polishing the code and the final part where I evaluate the models. Several visualizations are included. Main libraries: pandas, matplotlib and scikit-learn.
 Click [here](https://colab.research.google.com/drive/1HyltKJO8E6OiIl1F6biv0JRDnLGIpcYa?usp=sharing) to view project.
 
-![Flight Prices Prediction](/images/flight_plots.jpeg)
+![Flight Prices Prediction](/images/flight_plots.jpg)
 
 
 ## Learning
